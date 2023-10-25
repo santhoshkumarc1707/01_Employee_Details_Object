@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(193, 248, 205);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+    padding-top: 1em;
+
+}
+.data{
+    text-align: center;
+    padding-top: 15em;
+    padding-left: 20px;
+    position: relative;
+    padding: auto;
+}
+.emp{
+    border: 1px solid rgb(228, 247, 216);
+    padding-bottom: 15px;
+    
+        
+}
